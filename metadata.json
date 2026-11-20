@@ -1,0 +1,6 @@
+{
+  "name": "PRIME X INNOVATION",
+  "description": "Full-stack commerce, browser-based video and music studio, live classes, and Gemini AI verification platform for PRIME X INNOVATION.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
